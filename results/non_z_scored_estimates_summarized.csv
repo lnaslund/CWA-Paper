@@ -1,0 +1,19 @@
+policy,nutrient_type,value.2.5%,value.50%,value.97.5%
+319,Lake TN,-0.010,0.001,0.013
+319,Lake TP,-0.004,-0.001,0.002
+319,Stream Ammonium,-0.004,0.000,0.003
+319,Stream Nitrate,-0.018,0.001,0.018
+319,Stream TN,-0.015,0.003,0.024
+319,Stream TP,-0.002,0.000,0.001
+criteria,Lake TN,-10.041,1.378,13.338
+criteria,Lake TP,-1.759,1.047,4.850
+criteria,Stream Ammonium,-2.520,0.061,2.530
+criteria,Stream Nitrate,-14.389,-1.164,11.356
+criteria,Stream TN,-14.442,-2.220,9.487
+criteria,Stream TP,-1.368,-0.366,0.654
+tmdl,Lake TN,-105.913,10.237,123.971
+tmdl,Lake TP,-34.992,-3.656,21.786
+tmdl,Stream Ammonium,-28.372,-0.468,25.392
+tmdl,Stream Nitrate,-188.042,-6.665,161.087
+tmdl,Stream TN,-165.221,-5.432,165.842
+tmdl,Stream TP,-16.652,-4.099,7.928
