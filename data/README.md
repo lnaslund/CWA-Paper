@@ -36,7 +36,7 @@ data are titled "census_population_estimates.csv"
 Land cover data were obtained from the [National Land Cover Database](https://www.mrlc.gov/data) on DATE
 
 ### Feed and fertilizer data
-Feed and fertilizer data were obtained from the United States Department of Agriculture Census of Agriculture WEBSITE on DATE
+Feed and fertilizer data were obtained from the United States Department of Agriculture [Census of Agriculture](https://www.nass.usda.gov/AgCensus/) on DATE
 
 # Derived Data
 All derived data are located in the `clean_data` folder
