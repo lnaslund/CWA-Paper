@@ -18,7 +18,7 @@ The downloaded data used for analyses are located in TMDL_data.csv and data summ
 "TMDL_data_summary.csv"
 
 ## Nutrient loading predictors
-To control for changes in nutrient loading which may drive patterns in nutrient concentrations across states, we summarized variables we expected to correlate with nutrient loading using principle components analysis. We divided each variable by the state area and z scored it prior to running the principle components analysis and used the primary (PC1) and/or secondary (PC2) axis of the PCA in our policy model. 
+To control for changes in nutrient loading which may drive patterns in nutrient concentrations across states, we developed a global linear model using variables we expected to correlate with nutrient loading to predict state trends in nutrient concentrations. We conducted model selection using Akaike Information Criteria for small sample sizes (AICc) on all models that are a subset of the global model using the `dredge` function in the MuMIn package (Bartón 2022).
 
 
 ### Population data
