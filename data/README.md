@@ -21,7 +21,7 @@ The downloaded data used for analyses are located in TMDL_data.csv and data summ
 To control for changes in nutrient loading which may drive patterns in nutrient concentrations across states, we summarized variables we expected to correlate with nutrient loading using principle components analysis. We divided each variable by the state area and z scored it prior to running the principle components analysis and used the primary (PC1) and/or secondary (PC2) axis of the PCA in our policy model. 
 
 
-## Population data
+### Population data
 Population data summarized at the state level were obtained from the US census. 
 
 Table 1. Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2019 (PEPANNRES)
