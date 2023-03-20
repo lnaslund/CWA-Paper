@@ -1,4 +1,4 @@
-# Code for Nonpoint Source Pollution Policy Paper
+# Nonpoint source pollution measures in the Clean Water Act have no detectable impact on decadal trends in nutrient concentrations in U.S. inland waters
 Authors: Nathan Tomczyk, Laura Naslund, Carolyn Cummins, Emily V. Bell, Phillip Bumpers, Amy D. Rosemond
 
 # Abstract
