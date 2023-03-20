@@ -1,7 +1,7 @@
 # Raw Data
 
 ## NRSA and NLA data
-All water chemistry data from the National Aquatic Resource Surveys were downloaded from the [EPA website](https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys) on DATE. 
+All water chemistry data from the National Aquatic Resource Surveys were downloaded from the [EPA website](https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys) on April 7, 2022. 
 
 ## Policy variables
 ### 319 grant data
@@ -10,10 +10,10 @@ We downloaded Project Summary Reports and Project Budget Reports from 1996-2019 
 The downloaded data used for analyses are located in the `grts_project-budget-report` and `grts_project-summary-report` folders.
 
 ### Nutrient criteria data
-Data concerning the extent and duration of state numeric nutrient criteria were accessed from the [EPA website](https://www.epa.gov/nutrient-policy-data/state-progress-toward-developing-numeric-nutrient-water-quality-criteria) on DATE.
+Data concerning the extent and duration of state numeric nutrient criteria were accessed from the [EPA website](https://www.epa.gov/nutrient-policy-data/state-progress-toward-developing-numeric-nutrient-water-quality-criteria) on April 7, 2022.
 
 ### TMDL data
-Data describing the sites assessed were accessed from the [EPA website](https://www.epa.gov/waterdata/waters-geospatial-data-downloads#NationalGeospatialDatasets) on 16 March 2022. We used the "Pre-2015 305(b) Waters As Assessed Reach Indexed Dataset Archive" which describes all waters assessed within a state, both those that were found to be impaired and those that met their designated uses. 
+Data describing the sites assessed were accessed from the [EPA website](https://www.epa.gov/waterdata/waters-geospatial-data-downloads#NationalGeospatialDatasets) on March 16, 2022. We used the "Pre-2015 305(b) Waters As Assessed Reach Indexed Dataset Archive" which describes all waters assessed within a state, both those that were found to be impaired and those that met their designated uses. 
 The downloaded data used for analyses are located in TMDL_data.csv and data summarized at the state level are in
 "TMDL_data_summary.csv"
 
@@ -29,14 +29,14 @@ Source: U.S. Census Bureau, Population Division
 Release Date: December 2019
 
 We used the census data from 2010 and the estimated population estimates produced by the census for the following years.
-Data were downloaded on 26 August 2022
+Data were downloaded on August 26, 2022
 data are titled "census_population_estimates.csv"
 
 ### Land cover data 
-Land cover data were obtained from the [National Land Cover Database](https://www.mrlc.gov/data) on DATE
+Land cover data were obtained from the [National Land Cover Database](https://www.mrlc.gov/data) on April 7, 2022.
 
 ### Feed and fertilizer data
-Feed and fertilizer data were obtained from the United States Department of Agriculture [Census of Agriculture](https://www.nass.usda.gov/AgCensus/) on DATE
+Feed and fertilizer data were obtained from the United States Department of Agriculture [Census of Agriculture](https://www.nass.usda.gov/AgCensus/) on April 7, 2022.
 
 # Derived Data
 All derived data are located in the `clean_data` folder
